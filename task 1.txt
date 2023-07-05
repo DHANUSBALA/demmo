@@ -1,0 +1,2 @@
+write a blog on differnence b/w HTTP1.1 VS HTTP2
+    HTTP2 is mush fater and better than HTTP1.1
